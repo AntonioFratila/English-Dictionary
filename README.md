@@ -1,2 +1,2 @@
-# teachable
-A command-line english dictionary.
+# English Dictonary
+A command-line based english dictionary.
